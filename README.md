@@ -1,4 +1,4 @@
-# Exploring Hacker News Posts: Engagement Patterns in Ask HN and Show HN
+# Exploring Hacker News Posts: Engagement Patterns
 
 ## Introduction
 
